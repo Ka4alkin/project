@@ -42,4 +42,4 @@
 
 // console.log(raz || dva && tri);
 
-alert(8);
+alert(88);
